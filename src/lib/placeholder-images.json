@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "A portrait of a smiling woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1521119989659-a83eee488004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU5MDExMTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "A portrait of a man with glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg5NTE1NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar3",
+      "description": "A portrait of a person in a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1697581581183-bfd1c5e3bb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwY2l0eXxlbnwwfHx8fDE3NTg5MTYwNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person city"
+    },
+    {
+      "id": "avatar4",
+      "description": "A close-up of a smiling man.",
+      "imageUrl": "https://images.unsplash.com/photo-1633367583895-08545d733dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc1ODkzODY4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "avatar5",
+      "description": "A woman working on a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1507206130118-b5907f817163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGxhcHRvcHxlbnwwfHx8fDE3NTkwMzkyNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman laptop"
+    },
+    {
+      "id": "avatar6",
+      "description": "A developer coding.",
+      "imageUrl": "https://images.unsplash.com/photo-1667984436031-ea1d9ff307ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZXZlbG9wZXIlMjBjb2Rpbmd8ZW58MHx8fHwxNzU4OTU0MjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "developer coding"
+    },
+    {
+      "id": "project1",
+      "description": "Abstract network connections.",
+      "imageUrl": "https://images.unsplash.com/photo-1750969185331-e03829f72c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxuZXR3b3JrJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzU4OTU4OTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "network abstract"
+    },
+    {
+      "id": "project2",
+      "description": "A modern mobile app interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhcHAlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzU5MDMyMzMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app interface"
+    },
+    {
+      "id": "project3",
+      "description": "E-commerce website on a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1688561807381-05137151978f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlY29tbWVyY2UlMjBsYXB0b3B8ZW58MHx8fHwxNzU5MDM5MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce laptop"
+    },
+    {
+      "id": "project4",
+      "description": "Data visualization dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1686061592689-312bbfb5c055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkYXNoYm9hcmQlMjBkYXRhfGVufDB8fHx8MTc1ODk4OTk1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard data"
+    },
+    {
+      "id": "project5",
+      "description": "A person using a social media app.",
+      "imageUrl": "https://images.unsplash.com/photo-1755541516450-644adb257ad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MXwxfHNlYXJjaHw4fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTg5ODY4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    }
+  ]
+}
