@@ -1,6 +1,6 @@
 # DevVerse - Developer Marketplace
 
-![DevVerse Homepage](https://github.com/Yashparmar1125/DevVerse/blob/main/docs/image.png)
+![DevVerse Homepage](https://github.com/Yashparmar1125/DevVerse/blob/Main/docs/image.png)
 
 ## Overview
 
